@@ -1,0 +1,8 @@
+# Backend MERN-Calendar 
+
+# DEV
+
+1. Instalar dependencias 'npm install'
+2. Clonar el archivo 'env.template' y renombrarlo a '.env'
+3. Cambiar las variables del entorno acorde a tu configuracion
+4. Correr el, servidor 'npm run dev'
